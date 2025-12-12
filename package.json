@@ -1,0 +1,17 @@
+{
+  "name": "timing-events-lenex-exporter",
+  "version": "0.1.0",
+  "description": "Convert timing.events JSON payloads into Lenex XML.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "bin": {
+    "export-lenex": "bin/export-lenex.js"
+  },
+  "scripts": {
+    "lint": "echo \"No linter configured\"",
+    "test": "echo \"No automated tests yet\""
+  },
+  "dependencies": {
+    "js-lenex": "^2.1.0"
+  }
+}
