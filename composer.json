@@ -1,0 +1,12 @@
+{
+    "name": "timing/events-listener",
+    "description": "MQTT listener that stores tag reads in SQLite",
+    "require": {
+        "php": ">=8.0"
+    },
+    "authors": [
+        {
+            "name": "ChatGPT"
+        }
+    ]
+}
